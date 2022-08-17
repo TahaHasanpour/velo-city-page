@@ -27,9 +27,11 @@
 
 .article-dark-blue-bg{
     padding-top: 3rem;
-    background-image: url(https://cdn.pixabay.com/photo/2021/08/27/12/18/forest-6578551_960_720.jpg) ;
+    background-image: url(https://pixabay.com/get/g5726b34dda799b7804d15d2e90cca03904df8ec67b3b2dd035e95fe707775aa2aaafd5d9963471120532612265f3d615.jpg) ;
+    background-position: cover;
+    background-size: cover;
     background-repeat: no-repeat;
-    width: 100vw;
+    width: 100%;
     min-height: 30rem;
 
     
